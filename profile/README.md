@@ -1,4 +1,4 @@
-<h1 align="center">Garuda Indonesia Comunity Indonesia</h1>
+<h1 align="center">Garuda Indonesia Comunity (RedM/FiveM)</h1>
 <p align="center">
   <a href="https://Central-Indonesia.github.io/">
     <img src="https://r2.fivemanage.com/wuFyfLefICmpIY8KLSe7p/garuda.png">
