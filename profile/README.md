@@ -47,8 +47,8 @@ To foster a thriving roleplay community that emphasizes quality interaction, cha
 - Contribute positively to the community atmosphere
 
 ## Contact Us
-- Discord: [GARUDArp](https://discord.gg/GARUDArp)
-- Instagram: [@GARUDAroleplayid](https://www.instagram.com/GARUDAroleplay.id/)
+- Discord: [garudarp]()
+- Instagram: [@garudaroleplayid]()
 
 
 
@@ -58,3 +58,4 @@ All custom code and assets are property of GARUDA ROLEPLAY ID unless otherwise s
 ---
 
 © 2025 GARUDA ROLEPLAY ID. All rights reserved.
+
